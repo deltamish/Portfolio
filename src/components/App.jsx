@@ -3,7 +3,7 @@ import ComingSoon from './screens/ComingSoon'
 
 const App =()=> {
 return(
-    <div style={{height:"100%", display:"flex", width:"100%"}}>
+    <div style={{height:"100%", display:"block", width:"100%"}}>
         <ComingSoon />
     </div>
 );
